@@ -1,6 +1,9 @@
 # Bluetooth
 bluetooth.device.default_name=OnePlus 15
 
+# Device name
+ro.product.marketname=OnePlus 15
+
 # Display
 vendor.display.enable_spr_bypass=0
 vendor.display.enable_spr=1
