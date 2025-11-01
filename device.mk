@@ -25,6 +25,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     init.oplus.infiniti.rc
 
+# Fingerprint
+TARGET_HAS_UDFPS := true
+
 # Keymint
 PRODUCT_PACKAGES += \
     android.hardware.security.keymint3-service.strongbox.nxp \
