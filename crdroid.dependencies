@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_oneplus_sm8850-common",
+    "target_path": "device/oneplus/sm8850-common"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_oneplus_infiniti",
+    "target_path": "vendor/oneplus/infiniti",
+    "branch": "lineage-24.0"
+  }
+]
